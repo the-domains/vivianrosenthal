@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VivianRosenthal]]></title>
         <description><![CDATA[VivianRosenthal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vivianrosenthal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 18:29:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 18:36:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vivianrosenthal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yo]]></title>
+            <description><![CDATA[<article><h1>yo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bcd7fb4-9030-4430-8d75-1be055bfa3da.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vivianrosenthal/yo/index.html</link>
+            <guid isPermaLink="false">b1b4ce25-a333-4910-9608-f8d51204900a</guid>
+            <pubDate>Wed, 02 Mar 2016 18:35:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44496f92-a160-46d3-8bd7-9d97626e9f93.png">]]></description>
-            <link>undefinedaa3d7333-65a9-4abe-bcbd-5c48723b5074/index.html</link>
+            <link>https://thegrid.ai/vivianrosenthal/aa3d7333-65a9-4abe-bcbd-5c48723b5074/index.html</link>
             <guid isPermaLink="false">aa3d7333-65a9-4abe-bcbd-5c48723b5074</guid>
             <pubDate>Wed, 02 Mar 2016 18:26:32 GMT</pubDate>
         </item>
