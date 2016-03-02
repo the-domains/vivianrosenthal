@@ -1,0 +1,28 @@
+name: VivianRosenthal
+favicon: null
+layout_spectrum: 0.4590999991632998
+typography_spectrum: 0.9741328123491257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24273913959041238
+  lightness: 0.8014533189125359
+  saturation: 0.011717304354533553
+  rhythmicContrast: 0.08136771875433624
+purpose: []
