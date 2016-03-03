@@ -2,6 +2,7 @@ name: VivianRosenthal
 favicon: null
 layout_spectrum: 0.74702
 typography_spectrum: 0.93745
+title: 'Hello, is anybody there?'
 cta:
   domain: null
   bucket: null
